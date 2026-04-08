@@ -1,6 +1,6 @@
 # MacBook Pro Landing Page
 
-A responsive landing page inspired by Apple's MacBook Pro website, built using HTML and CSS.
+A responsive landing page inspired by Apple's MacBook Pro website.
 
 ## 🔧 Technologies Used
 
@@ -18,12 +18,6 @@ A responsive landing page inspired by Apple's MacBook Pro website, built using H
 ## 🚀 Live Demo
 
 https://martinsethdj-art.github.io/macbookpro/
-
-## 📁 Project Structure
-
-* `index.html` – Page structure
-* `styles.css` – Layout and styling
-* `images/` – Assets
 
 ## 🧠 Key Takeaways
 
